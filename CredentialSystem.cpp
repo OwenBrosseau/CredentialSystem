@@ -224,7 +224,7 @@ int main(int argc, char *argv[])
 				cout << "Logged out!";
 			}
 			else if (userResponse == "3") {
-				cout << "Thanks for using my security system!";
+				cout << "Thanks for using my credential system!";
 				exit(0);
 			}
 		}
